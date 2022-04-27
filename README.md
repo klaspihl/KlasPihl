@@ -1,4 +1,4 @@
-### Mosty private projects and labs.
+### Mostly private projects and labs.
 
 
 - 🔭 I’m Senor Consultant at Atea Sverige AB
